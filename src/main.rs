@@ -35,8 +35,3 @@ fn main(){
         i += 1;
     }
 }
-
-#[cfg(test)]
-mod Test{
-
-}
